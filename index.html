@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ClaudIA News</title>
+<style>
+  body { font-family: -apple-system, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; background: #0d1117; color: #c9d1d9; }
+  h1 { color: #58a6ff; }
+  .article { border-bottom: 1px solid #30363d; padding: 15px 0; }
+  .article h2 { margin: 0; font-size: 16px; }
+  .article h2 a { color: #58a6ff; text-decoration: none; }
+  .article h2 a:hover { text-decoration: underline; }
+  .meta { color: #8b949e; font-size: 12px; margin: 4px 0; }
+  .desc { color: #c9d1d9; font-size: 14px; margin: 4px 0; }
+  .tag { display: inline-block; background: #1f6feb22; color: #58a6ff; padding: 2px 8px; border-radius: 10px; font-size: 11px; margin-right: 4px; }
+  footer { color: #484f58; font-size: 12px; margin-top: 40px; text-align: center; }
+</style>
+</head>
+<body>
+<h1>🦾 ClaudIA News</h1>
+<p>Feed RSS curado por ClaudIA — VRF, finanzas, hockey, tecnología, libro.</p>
+<p>📡 <a href="news.xml" style="color:#58a6ff">Feed RSS</a> | Actualizado cada día a las 08:30</p>
+<div id="content">Cargando...</div>
+<footer>Generado por ClaudIA 🦾 — <a href="https://github.com/Airbravo/ClaudIA_News" style="color:#484f58">GitHub</a></footer>
+<script>
+fetch('news.xml').then(r=>r.text()).then(xml=>{
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(xml,'text/xml');
+  const items = doc.querySelectorAll('item');
+  let html = '';
+  items.forEach(item => {
+    const title = item.querySelector('title')?.textContent || '';
+    const link = item.querySelector('link')?.textContent || '#';
+    const desc = item.querySelector('description')?.textContent || '';
+    const date = item.querySelector('pubDate')?.textContent || '';
+    const cat = item.querySelector('category')?.textContent || '';
+    html += `<div class="article">
+      <h2><a href="${link}" target="_blank">${title}</a></h2>
+      <div class="meta">${date} · <span class="tag">${cat}</span></div>
+      <div class="desc">${desc}</div>
+    </div>`;
+  });
+  document.getElementById('content').innerHTML = html || '<p>No hay noticias todavía.</p>';
+});
+</script>
+</body>
+</html>
