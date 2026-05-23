@@ -1,170 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>ClaudIA News — Noticias para Nacho</title>
-    <link>https://github.com/ignaciobravogonzalez/claudia-news</link>
-    <description>Noticias curadas para Nacho: VRF/climatización, finanzas, hockey, tecnología y seguimiento del libro</description>
-    <language>es</language>
-    <lastBuildDate>Thu, 21 May 2026 10:53:01 +0000</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/ignaciobravogonzalez/claudia-news/main/news.xml" rel="self" type="application/rss+xml"/>
-    <image>
-      <url>https://raw.githubusercontent.com/ignaciobravogonzalez/claudia-news/main/icon.png</url>
-      <title>ClaudIA News</title>
-      <link>https://github.com/ignaciobravogonzalez/claudia-news</link>
-    </image>
-  <item>
-    <title>🌡️ VRF &amp; Climatización: Daikin VRV noticias 2026</title>
-    <link>https://www.google.com/search?q=Daikin+VRV+noticias+2026</link>
-    <description>Búsqueda sugerida: Daikin VRV noticias 2026</description>
-    <category>VRF &amp; Climatización</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=Daikin+VRV+noticias+2026-1325023054837127279</guid>
-  </item>
-  <item>
-    <title>🌡️ VRF &amp; Climatización: Mitsubishi VRF España cuota</title>
-    <link>https://www.google.com/search?q=Mitsubishi+VRF+España+cuota</link>
-    <description>Búsqueda sugerida: Mitsubishi VRF España cuota</description>
-    <category>VRF &amp; Climatización</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=Mitsubishi+VRF+España+cuota--3763650717623843212</guid>
-  </item>
-  <item>
-    <title>🌡️ VRF &amp; Climatización: LG VRF climatización eficiencia</title>
-    <link>https://www.google.com/search?q=LG+VRF+climatización+eficiencia</link>
-    <description>Búsqueda sugerida: LG VRF climatización eficiencia</description>
-    <category>VRF &amp; Climatización</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=LG+VRF+climatización+eficiencia-6702001818418004804</guid>
-  </item>
-  <item>
-    <title>🌡️ VRF &amp; Climatización: Panasonic VRF lanzamiento</title>
-    <link>https://www.google.com/search?q=Panasonic+VRF+lanzamiento</link>
-    <description>Búsqueda sugerida: Panasonic VRF lanzamiento</description>
-    <category>VRF &amp; Climatización</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=Panasonic+VRF+lanzamiento-464025439454003729</guid>
-  </item>
-  <item>
-    <title>🌡️ VRF &amp; Climatización: Midea VRF Europa expansión</title>
-    <link>https://www.google.com/search?q=Midea+VRF+Europa+expansión</link>
-    <description>Búsqueda sugerida: Midea VRF Europa expansión</description>
-    <category>VRF &amp; Climatización</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=Midea+VRF+Europa+expansión--2912106493042880728</guid>
-  </item>
-  <item>
-    <title>🌡️ VRF &amp; Climatización: reglamento F-gas climatización</title>
-    <link>https://www.google.com/search?q=reglamento+F-gas+climatización</link>
-    <description>Búsqueda sugerida: reglamento F-gas climatización</description>
-    <category>VRF &amp; Climatización</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=reglamento+F-gas+climatización--8437699309596012623</guid>
-  </item>
-  <item>
-    <title>🌡️ VRF &amp; Climatización: eficiencia energética VRF bomba calor</title>
-    <link>https://www.google.com/search?q=eficiencia+energética+VRF+bomba+calor</link>
-    <description>Búsqueda sugerida: eficiencia energética VRF bomba calor</description>
-    <category>VRF &amp; Climatización</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=eficiencia+energética+VRF+bomba+calor--345308949880560120</guid>
-  </item>
-  <item>
-    <title>💰 Finanzas &amp; Inversión: fondos indexados España</title>
-    <link>https://www.google.com/search?q=fondos+indexados+España</link>
-    <description>Búsqueda sugerida: fondos indexados España</description>
-    <category>Finanzas &amp; Inversión</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=fondos+indexados+España-7438086467612775982</guid>
-  </item>
-  <item>
-    <title>💰 Finanzas &amp; Inversión: MyInvestor cartera indexada</title>
-    <link>https://www.google.com/search?q=MyInvestor+cartera+indexada</link>
-    <description>Búsqueda sugerida: MyInvestor cartera indexada</description>
-    <category>Finanzas &amp; Inversión</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=MyInvestor+cartera+indexada-914438805720170511</guid>
-  </item>
-  <item>
-    <title>💰 Finanzas &amp; Inversión: mercados financieros actualidad</title>
-    <link>https://www.google.com/search?q=mercados+financieros+actualidad</link>
-    <description>Búsqueda sugerida: mercados financieros actualidad</description>
-    <category>Finanzas &amp; Inversión</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=mercados+financieros+actualidad-2785974391430232996</guid>
-  </item>
-  <item>
-    <title>🏑 Hockey Patines: Tres Cantos PC hockey patines</title>
-    <link>https://www.google.com/search?q=Tres+Cantos+PC+hockey+patines</link>
-    <description>Búsqueda sugerida: Tres Cantos PC hockey patines</description>
-    <category>Hockey Patines</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=Tres+Cantos+PC+hockey+patines--5775588584679337428</guid>
-  </item>
-  <item>
-    <title>🏑 Hockey Patines: Campeonato España hockey patines base</title>
-    <link>https://www.google.com/search?q=Campeonato+España+hockey+patines+base</link>
-    <description>Búsqueda sugerida: Campeonato España hockey patines base</description>
-    <category>Hockey Patines</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=Campeonato+España+hockey+patines+base--4504260660416712557</guid>
-  </item>
-  <item>
-    <title>🏑 Hockey Patines: FMP hockey resultados competiciones</title>
-    <link>https://www.google.com/search?q=FMP+hockey+resultados+competiciones</link>
-    <description>Búsqueda sugerida: FMP hockey resultados competiciones</description>
-    <category>Hockey Patines</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=FMP+hockey+resultados+competiciones--3168997188371705097</guid>
-  </item>
-  <item>
-    <title>🤖 Tecnología: OpenClaw novedades</title>
-    <link>https://www.google.com/search?q=OpenClaw+novedades</link>
-    <description>Búsqueda sugerida: OpenClaw novedades</description>
-    <category>Tecnología</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=OpenClaw+novedades--8211978204679582096</guid>
-  </item>
-  <item>
-    <title>🤖 Tecnología: inteligencia artificial agentes</title>
-    <link>https://www.google.com/search?q=inteligencia+artificial+agentes</link>
-    <description>Búsqueda sugerida: inteligencia artificial agentes</description>
-    <category>Tecnología</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=inteligencia+artificial+agentes-4786717890742539045</guid>
-  </item>
-  <item>
-    <title>🤖 Tecnología: NVIDIA NemoClaw</title>
-    <link>https://www.google.com/search?q=NVIDIA+NemoClaw</link>
-    <description>Búsqueda sugerida: NVIDIA NemoClaw</description>
-    <category>Tecnología</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=NVIDIA+NemoClaw--8736694769191941449</guid>
-  </item>
-  <item>
-    <title>📖 Analfabeto Financiero: "Analfabeto Financiero" reseña</title>
-    <link>https://www.google.com/search?q="Analfabeto+Financiero"+reseña</link>
-    <description>Búsqueda sugerida: "Analfabeto Financiero" reseña</description>
-    <category>Analfabeto Financiero</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q="Analfabeto+Financiero"+reseña--8000276301495739090</guid>
-  </item>
-  <item>
-    <title>📖 Analfabeto Financiero: "Ignacio Bravo" libro finanzas</title>
-    <link>https://www.google.com/search?q="Ignacio+Bravo"+libro+finanzas</link>
-    <description>Búsqueda sugerida: "Ignacio Bravo" libro finanzas</description>
-    <category>Analfabeto Financiero</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q="Ignacio+Bravo"+libro+finanzas--8998420077450316917</guid>
-  </item>
-  <item>
-    <title>📖 Analfabeto Financiero: educación financiera España</title>
-    <link>https://www.google.com/search?q=educación+financiera+España</link>
-    <description>Búsqueda sugerida: educación financiera España</description>
-    <category>Analfabeto Financiero</category>
-    <pubDate>2026-05-21</pubDate>
-    <guid isPermaLink="false">https://www.google.com/search?q=educación+financiera+España-92667769728880123</guid>
-  </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>ClaudIA News — Noticias Curadas</title>
+<link>http://claudia:9099/news.xml</link>
+<description>Feed RSS curado de noticias de VRF/climatización, finanzas, hockey y más. Generado automáticamente por ClaudIA.</description>
+<language>es</language>
+<lastBuildDate>Sat, 23 May 2026 06:41:13 +0000</lastBuildDate>
+<atom:link href="http://claudia:9099/news.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>GREE Products lanza su nuevo Catálogo 2026 con soluciones de aerotermia y VRF</title>
+<link>https://e-ficiencia.com/gree-lanza-nuevo-catalogo-2026/</link>
+<description>GREE Products presenta su Catálogo 2026 con nuevas soluciones de aerotermia, VRF y climatización eficiente para profesionales del sector HVAC.</description>
+<source url="https://e-ficiencia.com/gree-lanza-nuevo-catalogo-2026/">E-Ficiencia</source>
+<category>vrf</category>
+<guid isPermaLink="true">https://e-ficiencia.com/gree-lanza-nuevo-catalogo-2026/</guid>
+<pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Climatización 2026: digitalización, eficiencia energética y calidad del aire</title>
+<link>https://www.tecnoinstalacion.com/noticias/20260128/tendencias-climatizacion-2026-hvac-digitalizacion-eficiencia-calidad-aire</link>
+<description>La digitalización y la eficiencia energética redefinen la climatización en 2026, con sistemas más conectados, sostenibles y centrados en el usuario.</description>
+<source url="https://www.tecnoinstalacion.com/noticias/20260128/tendencias-climatizacion-2026-hvac-digitalizacion-eficiencia-calidad-aire">TecnoInstalación</source>
+<category>vrf</category>
+<guid isPermaLink="true">https://www.tecnoinstalacion.com/noticias/20260128/tendencias-climatizacion-2026-hvac-digitalizacion-eficiencia-calidad-aire</guid>
+<pubDate>Wed, 28 Jan 2026 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Tendencias HVAC en 2026: lo que todo instalador debe saber</title>
+<link>https://electrofiloeste.es/blog/tendencias-hvac-2026/</link>
+<description>Las tendencias que marcan 2026: aerotermia, conectividad, calidad del aire, VRF y sostenibilidad. Tecnologías que ya se demandan en obra nueva y rehabilitación.</description>
+<source url="https://electrofiloeste.es/blog/tendencias-hvac-2026/">Electrofiloeste</source>
+<category>vrf</category>
+<guid isPermaLink="true">https://electrofiloeste.es/blog/tendencias-hvac-2026/</guid>
+<pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Daikin presenta innovaciones de alta eficiencia en AHR Expo 2026 con nuevas soluciones VRV</title>
+<link>https://www.daikin.com/press/2026/20260128</link>
+<description>Daikin desvela innovaciones de alto rendimiento en AHR Expo 2026, incluyendo tecnologías avanzadas de refrigeración para centros de datos y nuevas soluciones VRV comerciales.</description>
+<source url="https://www.daikin.com/press/2026/20260128">Daikin Global</source>
+<category>vrf</category>
+<guid isPermaLink="true">https://www.daikin.com/press/2026/20260128</guid>
+<pubDate>Wed, 28 Jan 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Mitsubishi Electric Trane HVAC presenta sistemas VRF 100% eléctricos en AHR Expo 2026</title>
+<link>https://www.mitsubishicomfort.com/press-releases/AHR-Expo-2026</link>
+<description>Mitsubishi Electric Trane HVAC US LLC presenta nuevas soluciones VRF 100% eléctricas para todas las estaciones en AHR Expo 2026, incluyendo bombas de calor y sistemas sin conductos.</description>
+<source url="https://www.mitsubishicomfort.com/press-releases/AHR-Expo-2026">Mitsubishi Electric</source>
+<category>vrf</category>
+<guid isPermaLink="true">https://www.mitsubishicomfort.com/press-releases/AHR-Expo-2026</guid>
+<pubDate>Tue, 27 Jan 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Fiscalidad de Fondos Indexados y ETFs en España: Guía Completa 2026</title>
+<link>https://www.carteraia.com/inversiones/fiscalidad-fondos-espana</link>
+<description>Guía completa sobre cómo tributan los fondos de inversión en España: ventajas fiscales, diferimiento de impuestos y cómo evitar errores comunes en la declaración.</description>
+<source url="https://www.carteraia.com/inversiones/fiscalidad-fondos-espana">Carteraia</source>
+<category>finanzas</category>
+<guid isPermaLink="true">https://www.carteraia.com/inversiones/fiscalidad-fondos-espana</guid>
+<pubDate>Wed, 20 May 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Fiscalidad fondos indexados en España: guía 2026</title>
+<link>https://finantres.com/fiscalidad-fondos-indexados-declaracion-renta/</link>
+<description>Descubre cómo tributan los fondos indexados en España, cuándo pagas impuestos, cómo funcionan los traspasos y qué cambia frente a un ETF.</description>
+<source url="https://finantres.com/fiscalidad-fondos-indexados-declaracion-renta/">Finantres</source>
+<category>finanzas</category>
+<guid isPermaLink="true">https://finantres.com/fiscalidad-fondos-indexados-declaracion-renta/</guid>
+<pubDate>Tue, 19 May 2026 09:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Mejores depósitos a plazo fijo de mayo 2026: hasta 3,20% TAE</title>
+<link>https://www.eleconomista.es/finanzas-personales/depositos-a-plazo-fijo/</link>
+<description>Comparativa de los mejores depósitos a plazo fijo con rentabilidades de hasta el 3,20% TAE. Plazos variados para todo tipo de ahorradores.</description>
+<source url="https://www.eleconomista.es/finanzas-personales/depositos-a-plazo-fijo/">El Economista</source>
+<category>finanzas</category>
+<guid isPermaLink="true">https://www.eleconomista.es/finanzas-personales/depositos-a-plazo-fijo/</guid>
+<pubDate>Fri, 22 May 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Planificación Financiera España 2026: fintechs, neobancos y ETF</title>
+<link>https://www.lasfinanzaspersonales.org/post/planificacion-financiera-espana</link>
+<description>Aprende sobre planificación financiera personal en España. Descubre fintechs, neobancos y cómo invertir en ETF o fondos monetarios en 2026.</description>
+<source url="https://www.lasfinanzaspersonales.org/post/planificacion-financiera-espana">Las Finanzas Personales</source>
+<category>finanzas</category>
+<guid isPermaLink="true">https://www.lasfinanzaspersonales.org/post/planificacion-financiera-espana</guid>
+<pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Los mejores depósitos en mayo 2026 a partir del 3% TAE</title>
+<link>https://sincomisiones.org/blog/mejores-depositos-mayo-2026</link>
+<description>Panorama de mayo 2026 para ahorradores conservadores: más opciones reales que en cualquier otro momento de los últimos doce meses, con depósitos desde el 3% TAE.</description>
+<source url="https://sincomisiones.org/blog/mejores-depositos-mayo-2026">Sin Comisiones</source>
+<category>finanzas</category>
+<guid isPermaLink="true">https://sincomisiones.org/blog/mejores-depositos-mayo-2026</guid>
+<pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>El playoff de la OK Liga Iberdrola empieza este fin de semana</title>
+<link>https://www.hockeypatines.fep.es/</link>
+<description>La OK Liga Iberdrola de hockey patines entra en su fase decisiva con el inicio de los playoffs por el título. Emoción al máxima en la competición femenina.</description>
+<source url="https://www.hockeypatines.fep.es/">RFEP Hockey Patines</source>
+<category>hockey</category>
+<guid isPermaLink="true">https://www.hockeypatines.fep.es/</guid>
+<pubDate>Fri, 22 May 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>La OK Liga entra en su fase decisiva con el inicio de los playoffs</title>
+<link>https://fep.es/portada/hockey-patines</link>
+<description>La OK Liga de hockey patines masculina inicia los playoffs por el título en su fase más emocionante de la temporada 2025/26.</description>
+<source url="https://fep.es/portada/hockey-patines">RFEP</source>
+<category>hockey</category>
+<guid isPermaLink="true">https://fep.es/portada/hockey-patines</guid>
+<pubDate>Fri, 22 May 2026 18:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Competiciones Hockey Patines 2025/26: Copa de la Reina y Playoffs OK Liga</title>
+<link>https://www.hockeypatines.fep.es/league/3151</link>
+<description>Calendario y resultados de las competiciones de hockey patines temporada 2025/26: Copa de la Reina Iberdrola, Mini Copa de la Reina y Playoffs OK Liga.</description>
+<source url="https://www.hockeypatines.fep.es/league/3151">RFEP Hockey Patines</source>
+<category>hockey</category>
+<guid isPermaLink="true">https://www.hockeypatines.fep.es/league/3151</guid>
+<pubDate>Thu, 21 May 2026 10:00:00 +0000</pubDate>
+</item>
+</channel>
 </rss>
